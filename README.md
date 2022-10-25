@@ -1,4 +1,4 @@
-# xgulism1.github.io
+# sfera-vrar.github.io
 
 ### Scripts (needed):
 * https://unpkg.com/@webcomponents/webcomponentsjs@2.5.0/webcomponents-loader.js
